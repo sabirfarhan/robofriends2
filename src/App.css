@@ -1,0 +1,14 @@
+@font-face {
+    font-family: 'Sci Fied 2002 Ultra Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Sci Fied 2002 Ultra Regular'), url('scifi2ku.woff') format('woff');
+}
+
+    h1 {
+
+        font-family: 'Sci Fied 2002 Ultra Regular';
+        font-weight: 300;
+        color: rgb(5, 63, 15);
+
+    }
